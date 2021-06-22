@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1004572976917",
+    "project_id": "printlab-e8422",
+    "storage_bucket": "printlab-e8422.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004572976917:android:a8398b08d45733b47f2b1c",
+        "android_client_info": {
+          "package_name": "com.silvertech.printlab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004572976917-h0nblejt6b27n0p6mki14of5skvn9sco.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.silvertech.printlab",
+            "certificate_hash": "68e195492ebf59442f01127f7a62c3915d31943d"
+          }
+        },
+        {
+          "client_id": "1004572976917-4k9c9sdrocujtkj2d2snlirk3sb06jij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABotM4vIwSYVY8FXwIJqjFiZpEjRCsS7s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004572976917-4k9c9sdrocujtkj2d2snlirk3sb06jij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
